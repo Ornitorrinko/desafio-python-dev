@@ -47,7 +47,7 @@ Exemplo de objeto de detalhes do Senador:
   "email": "gladson.cameli@senador.leg.br",
   "sitePessoal": "URL_SITE_SENADOR",
   "enderecoEscritorioApoio": "AVENIDA TRAVESSA BOA VISTA, 111. ISAURA PARENTE, RIO BRANCO, AC.",
-  "CEP":"69918306",
+  "cep":69918306,
   "chapas": [],
   "comissoes": [],
   "missoes": [],
