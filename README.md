@@ -18,6 +18,7 @@ A package deve ter os seguintes métodos
 
 Exemplo de lista de senadores ativos:
 
+```
 [
   {
     "nome":'Gladson Cameli',
@@ -31,9 +32,11 @@ Exemplo de lista de senadores ativos:
   },
   ...
 ]
+```
 
 Exemplo de objeto de detalhes do Senador:
 
+```
 {
 
   "nomeCivil": "Gladson de Lima Cameli",
@@ -51,6 +54,7 @@ Exemplo de objeto de detalhes do Senador:
   "proposicoes":["SF PEC 88/2015","SF PLS 330/2018", ... ],
   "materiaRelatadas": ["SF PDS 41/2016", "SF PDS 49/2016"]
 }
+```
 
 
 Lista de Senadores em exercício:
