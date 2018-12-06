@@ -9,11 +9,13 @@ O código deve estar no formato de package seguindo os padrões de packages do p
 A package deve ter os seguintes métodos
 
 - obtemTodosSenadoresAtivos
-  Retorna lista de todos os senadores ( Exemplo de lista abaixo )
+  > Retorna lista de todos os senadores ( Exemplo de lista abaixo )
 - obtemDetalhesDoSenador(id_senador)
-  Retorna dados mais detalhados de um senador em questão ( Exemplo de objeto abaixo )
-  Importante que este método retorna o maior número de informações possíveis e dentro do formato do exemplo.
+  > Retorna dados mais detalhados de um senador em questão ( Exemplo de objeto abaixo ). 
+  É importante que este método retorne o maior número de informações possíveis e dentro do formato do exemplo.
+  
   Todas as proposicoes do parlamentares devem estar no objeto assim como todas as proposições relatadas.
+  
   Os campos "chapas", "comissoes", "missoes" "biografia" devem ser preenchidos com o maior número de informações, clareza e organização possíveis.
 
 Exemplo de lista de senadores ativos:
